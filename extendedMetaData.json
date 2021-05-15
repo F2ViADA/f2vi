@@ -13,7 +13,7 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "French Engineer with a strong interest for the energy sector and sustainability. Supporting a Gas flaring reduciton and energy transition startup. ",
+			"me": "French Engineer with a strong interest for the energy sector and sustainability. Supporting a Gas flaring reduction, energy waste reduction and energy transition startup.",
 			"server": "BareMetal Block Producer and Linode cloud Relays",
 			"mission": "Support the energy transition and fight GHG emission. Part of Mission Driven Pools, Single Pool Operators and Bare Metal Alliances"
 		},
@@ -21,7 +21,7 @@
 			"0": "pool1g9v6nnrn8x7jcj26mqernsh3h97g6gyhamttzg8q39yvjr60g7k"
 		},
 "types": {
-                "charity": true,
+                "charity": false,
                 "business": false,
                 "beneficial": true
             }
